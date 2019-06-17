@@ -1,0 +1,4 @@
+--2019-06-17 16:26:23--  ftp://view-source/https://duckduckgo.com/?q=hola
+           => “wget-log”
+Resolviendo view-source (view-source)... falló: Fallo temporal en la resolución del nombre.
+wget: no se pudo resolver la dirección del equipo “view-source”
